@@ -1,0 +1,5 @@
+/* Layout wrapper classes if needed */
+main {
+  display: flex;
+  flex-direction: column;
+}
