@@ -55,7 +55,7 @@ export default function About() {
               <h4 className="school-name">Laguna State Polytechnic University</h4>
               <p className="school-campus">Los Baños Campus</p>
               <h5 className="degree-name">Bachelor of Science in Computer Science</h5>
-              <div className="major-badge">Major in Intelligent System</div>
+              <div className="major-badge">Major in Intelligent Systems</div>
 
               <div className="location-info">
                 <MapPin size={14} /> Los Baños, Laguna
